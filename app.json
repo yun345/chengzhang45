@@ -1,5 +1,5 @@
 {
-  "name": "chengzhang45",
+  "name": "heroku-v2ray",
   "description": "将v2ray部署在Heroku上",
   "keywords": [
     "v2ray VMess VLESS"
